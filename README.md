@@ -1,1 +1,4 @@
 # load_balancer
+Load balancing, atau penyeimbangan beban, adalah teknik yang digunakan dalam komputasi dan jaringan untuk mendistribusikan trafik secara merata di antara beberapa sumber daya komputasi atau server. Tujuan utama load balancing adalah mengoptimalkan kinerja jaringan dan memastikan bahwa arus lalu lintas jaringan tetap lancar.
+Load balancing digunakan pada saat sebuah server telah memiliki jumlah user yang telah melebihi maksimal kapasitasnya. Jika tidak, server dapat mengalami kelebihan beban yang akan mengakibatkan server down. Load balancing juga dapat membantu menjaga situs web agar tetap responsif terhadap pengguna, yang seringkali dapat terganggu oleh lonjakan lalu lintas.
+load balancer checker adalah sebuah script python yang berfungsi untuk mengetahui apakah ada load balancing pada suatu web server atau tidak
